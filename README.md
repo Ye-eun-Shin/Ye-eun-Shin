@@ -5,8 +5,9 @@
 <br>
 I’m currently interested in Deep Learning, especially Multi-modal Learning and Large Language Model.
 <br>
+<br>
+<br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ye-eun-Shin&show_icons=true&theme=radical)
 
 ## 📚 Skills
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
