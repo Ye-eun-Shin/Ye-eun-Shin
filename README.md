@@ -1,7 +1,7 @@
 ## 👋 Hi there! I’m @Ye-eun-Shin.
 <a href="mailto:random.seed042@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&link=mailto:random.seed042@gmail.com&logoColor=white"/></a>
 <a href="https://velog.io/@ryan01" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=Blog&logoColor=white"/></a>
-<a href="www.linkedin.com/in/yes042" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/yes042/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 <br>
 I’m currently interested in Deep Learning, especially Multi-modal Learning and Large Language Model.
 <br>
